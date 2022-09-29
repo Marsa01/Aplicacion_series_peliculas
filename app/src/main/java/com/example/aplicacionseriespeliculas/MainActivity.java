@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     Button btnContinuar;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -18,6 +19,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         //capturar el botón del XML
         btnContinuar=findViewById(R.id.buttonContinuar);
+
     }
 
     @Override
@@ -28,4 +30,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         startActivity(i);
 
     }
+
 }
