@@ -101,7 +101,7 @@
         android:id="@+id/textView4"
         android:layout_width="284dp"
         android:layout_height="83dp"
-        android:text="Podemos darte recomendaciones acorde a tus gustos, mostrándote una sinopsis de series y películas, con su respectiva crítica y más datos,  a través de un catálogo  muy diverso e interesante."
+        android:text="Te podemos dar recomendaciones acorde a tus gustos, mostrándote una sinopsis de series y películas, con su respectiva crítica y más datos,  a través de un catálogo  muy diverso e interesante."
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
