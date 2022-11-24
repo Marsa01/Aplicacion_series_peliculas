@@ -4,11 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/mdzet/AndroidStudioProjects/Aplicacionseriespeliculas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
-        <entry key="..\:/Users/mdzet/AndroidStudioProjects/Aplicacionseriespeliculas/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/mdzet/AndroidStudioProjects/Aplicacionseriespeliculas/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/mdzet/AndroidStudioProjects/Aplicacionseriespeliculas/app/src/main/res/layout/activity_opcion.xml" value="0.2734375" />
         <entry key="..\:/Users/mdzet/AndroidStudioProjects/Aplicacionseriespeliculas/app/src/main/res/layout/activity_peliculas.xml" value="0.264" />
         <entry key="..\:/Users/mdzet/AndroidStudioProjects/Aplicacionseriespeliculas/app/src/main/res/layout/activity_series.xml" value="0.2604166666666667" />
-        <entry key="..\:/Users/mdzet/AndroidStudioProjects/Aplicacionseriespeliculas/app/src/main/res/layout/item_list_peliculas.xml" value="0.4" />
+        <entry key="..\:/Users/mdzet/AndroidStudioProjects/Aplicacionseriespeliculas/app/src/main/res/layout/item_list_peliculas.xml" value="0.264" />
+        <entry key="..\:/Users/mdzet/AndroidStudioProjects/Aplicacionseriespeliculas/app/src/main/res/layout/item_list_series.xml" value="0.264" />
       </map>
     </option>
   </component>

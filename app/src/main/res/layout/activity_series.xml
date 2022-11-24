@@ -6,15 +6,14 @@
     android:layout_height="match_parent"
     tools:context=".SeriesActivity">
 
-    <TextView
-        android:id="@+id/textSeries"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Catalogo Series"
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerSeries"
+        android:layout_width="287dp"
+        android:layout_height="445dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.056" />
-
+        app:layout_constraintVertical_bias="0.421" />
 </android.support.constraint.ConstraintLayout>
